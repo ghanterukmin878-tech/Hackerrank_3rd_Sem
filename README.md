@@ -16,3 +16,6 @@ This repository contains my HackerRank problem-solving solutions written in C la
 
 ## Author
 Rukmin Ghante
+## HackerRank Profile
+
+[My HackerRank Profile](https://www.hackerrank.com/profile/ghanterukmin878)
