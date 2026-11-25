@@ -42,3 +42,20 @@ Rukmin Ghante
 ### 3-Star Problem Solving Badge
 
 ![3-Star Badge](Screenshot%202026-11-25%20170741.png)
+## Accepted Submission Screenshots
+
+### HackerRank Accepted Submissions
+
+![Screenshot 1](Screenshot%202026-11-25%20163602.png)
+
+![Screenshot 2](Screenshot%202026-11-25%20164158.png)
+
+![Screenshot 3](Screenshot%202026-11-25%20164334.png)
+
+![Screenshot 4](Screenshot%202026-11-25%20164517.png)
+
+![Screenshot 5](Screenshot%202026-11-25%20164654.png)
+
+### 3-Star Problem Solving Badge
+
+![3-Star Badge](Screenshot%202026-11-25%20170741.png)
